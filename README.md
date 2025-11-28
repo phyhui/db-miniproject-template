@@ -29,5 +29,5 @@ Wichtig sind folgende zwei Punkte:
 **Wichtig:** Testet dass folgende Schritte funktionieren:
 
 1. `pip install -r requirements.txt`
-2. `python setup_dp.py`
+2. `python setup_db.py`
 3. `streamlit run streamlit_app.py`
